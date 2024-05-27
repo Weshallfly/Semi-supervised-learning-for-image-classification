@@ -1,4 +1,4 @@
-# Semi-superwised-learning-for-image-classification
+# Semi-supervised-learning-for-image-classification
 This repository contains an implementation of semi-supervised learning using K-Means clustering on the Fashion MNIST.
 
 ## Datasets
